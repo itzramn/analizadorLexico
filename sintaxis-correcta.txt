@@ -1,0 +1,36 @@
+Comienzo
+Clases_inicio
+#Clase002
+Clases_fin
+
+Variablezona
+Cadena nombre=isis?
+Entero num=3?
+Decimal num2=9.3?
+Boleano cierto=V?
+Variablefin
+ñ
+Inicio_cuerpo
+Imprimir "Ingresa 2 numeros"?
+Leer var,Decimal?
+Imprimir "xd",num?
+Imprimir "xd",num?
+Si (num==9)
+	num=num+1?
+Otro
+Si (num<0)
+	num=1?
+Otro
+num=num-1?
+	Fin_si
+num=0?
+Fin_si
+Mientras(num>10)
+num=num+10?
+Fin_mientras
+Hacer
+Imprimir "hola"?
+Mientras(Boleano==F)?
+
+Fin_cuerpo
+Final
