@@ -2,14 +2,12 @@ Comienzo
 Clases_inicio
 #Clase002
 Clases_fin
-
 Variablezona
-Cadena nombre=isis?
+Cadena nombre=itzel?
 Entero num=3?
 Decimal num2=9.3?
 Boleano cierto=V?
 Variablefin
-ñ
 Inicio_cuerpo
 Imprimir "Ingresa 2 numeros"?
 Leer var,Decimal?
@@ -31,6 +29,5 @@ Fin_mientras
 Hacer
 Imprimir "hola"?
 Mientras(Boleano==F)?
-
 Fin_cuerpo
 Final

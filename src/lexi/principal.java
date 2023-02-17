@@ -223,7 +223,7 @@ String[] StructursEx =
 };
 
 //Lista de caracteres no permitidos, si se encuentra uno de estos se considera como error
-String noCharters = "ñ";
+String noCharters = "ñ|°|;|";
 
 String operations = "\\s*[A-Za-z-_]+([A-Za-z-_]|[0-9]*)+\\s*\\=\\s*([A-Za-z-_]+([A-Za-z-_]|[0-9]*)|[0-9])\\s*((\\+|\\-|\\*|\\/)\\s*([A-Za-z-_]+([A-Za-z-_]|[0-9]*)|[0-9]*\\s*)\\s*)*\\?";
     
